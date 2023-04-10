@@ -1,0 +1,2 @@
+# IdeaVault
+Note taking app
